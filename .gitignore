@@ -1,0 +1,8 @@
+# Ignore all dataset files
+/WINGBEATS
+/checkpoints
+/lightning_logs
+/.venv
+/output.txt
+/__pycache__
+*.csv
